@@ -1,6 +1,6 @@
 # Empower Your Web Development: Building Custom JavaScript Web Components in 2 Simple Steps
 
-Welcome to the repository accompanying the blog post ["Empower Your Web Development: Building Custom JavaScript Web Components in 4 Simple Steps"](https://kaethedev.com/custom-javascript-web-components-a-beginners-guide/) on [kaethedev.com](https://www.kaethedev.com).
+Welcome to the repository accompanying the blog post ["Empower Your Web Development: Building Custom JavaScript Web Components in 2 Simple Steps"](https://kaethedev.com/custom-javascript-web-components-a-beginners-guide/) on [kaethedev.com](https://www.kaethedev.com).
 
 ## Introduction
 
@@ -17,7 +17,7 @@ This repository serves as a companion to the blog post that aims to teach beginn
 
 ## Getting Started
 
-To get started, please refer to the blog post [Empower Your Web Development: Building Custom JavaScript Web Components in 4 Simple Steps](https://kaethedev.com/custom-javascript-web-components-a-beginners-guide/) on [kaethedev.com](https://www.kaethedev.com). The post covers the concepts, steps, and explanations needed to understand and build the custom JavaScript web component.
+To get started, please refer to the blog post [Empower Your Web Development: Building Custom JavaScript Web Components in 2 Simple Steps](https://kaethedev.com/custom-javascript-web-components-a-beginners-guide/) on [kaethedev.com](https://www.kaethedev.com). The post covers the concepts, steps, and explanations needed to understand and build the custom JavaScript web component.
 
 ## Repository Contents
 
