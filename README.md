@@ -1,4 +1,4 @@
-# Empower Your Web Development: Building Custom JavaScript Web Components in 4 Simple Steps
+# Empower Your Web Development: Building Custom JavaScript Web Components in 2 Simple Steps
 
 Welcome to the repository accompanying the blog post ["Empower Your Web Development: Building Custom JavaScript Web Components in 4 Simple Steps"](https://kaethedev.com/custom-javascript-web-components-a-beginners-guide/) on [kaethedev.com](https://www.kaethedev.com).
 
