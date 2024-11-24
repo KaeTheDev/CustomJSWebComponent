@@ -13,10 +13,6 @@ This repository serves as a companion to the blog post that aims to teach beginn
 - Visual Studio Code (or any code editor of your choice).
 - Live Server extension installed in Visual Studio Code (for easy development and testing).
 
-## Getting Started
-
-To get started, please refer to the blog post [Empower Your Web Development: Building Custom JavaScript Web Components in 2 Simple Steps](https://kaethedev.com/custom-javascript-web-components-a-beginners-guide/) on [kaethedev.com](https://www.kaethedev.com). The post covers the concepts, steps, and explanations needed to understand and build the custom JavaScript web component.
-
 ## Repository Contents
 
 - `index.html`: Sample HTML file showcasing the usage of the custom modal component.
